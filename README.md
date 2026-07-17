@@ -25,13 +25,13 @@ More screenshots:
 
 ### More CLONE NETACAD screenshots
 
-![Clone hero](screenshots/clone-1.png)
-![Clone stats](screenshots/clone-2.png)
-![Clone subjects](screenshots/clone-3.png)
-![Clone courses](screenshots/clone-4.png)
-![Clone academy](screenshots/clone-5.png)
-![Clone certified](screenshots/clone-6.png)
-![Clone next job](screenshots/clone-7.png)
+![Clone hero](screenshots/Screenshot%20%28792%29.png)
+![Clone stats](screenshots/Screenshot%20%28793%29.png)
+![Clone subjects](screenshots/Screenshot%20%28794%29.png)
+![Clone courses](screenshots/Screenshot%20%28795%29.png)
+![Clone academy](screenshots/Screenshot%20%28796%29.png)
+![Clone certified](screenshots/Screenshot%20%28797%29.png)
+![Clone next job](screenshots/Screenshot%20%28798%29.png)
 
 ## Tech
 
